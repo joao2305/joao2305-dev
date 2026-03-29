@@ -1,16 +1,24 @@
 # Olá, eu sou João Vitor 👋
 
 🎓 Estudante de Sistemas de Informação  
-💻 Desenvolvedor Back-End  
-🚀 Focado em .NET 
+💻 Desenvolvedor Software  
+🚀 Focado em Back-end 
 
 ---
 
 ## 🔥 Tecnologias
-- C#
 - .NET
 - Git
 - Unity
+- React Native
+
+---
+
+## 🔥 Linguagens
+- C#
+- Java
+- JavaScript
+- TypeScript
 
 ---
 
